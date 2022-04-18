@@ -1,14 +1,17 @@
-main() {
-	
-	int  a = 7;
+void main() {	
 
-	if (a % 2 == 0)
-	{
-		print('$a is even');
+	var a = 23;
+
+	// To get remainder we use %
+	
+	var remainder = a%2;
+
+
+	if(remainder == 0){
+		print("$a is even");
 	}
-	else
-	{
-		print('$a is odd');
+	else {
+		print("$a is odd");
 	}
 }
 
