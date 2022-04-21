@@ -1,0 +1,7 @@
+1. Take a list with names Anthony, Akbar, Birbal, Babar, Humayun, Shahjahan. 
+Print first names by skipping the second name and third name by skipping 
+
+
+2. Look at how to print a list of the above names easily using for loop without index.
+
+3. Try copying the nameslist to a new variable called secondNamesList. Change the secondNamesList[1] to Sharukh. Then print the namesList.
